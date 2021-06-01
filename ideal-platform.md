@@ -1,19 +1,16 @@
-### A quick introduction to the document theme
-This is what a new Small Victories website looks like using the document theme. Drop markdown folders into your site folder.
+### ideal platform (discussion)
 
-### Settings
-Your site’s settings are in a file called `settings.txt`. Anything you change here you can also change in your [admin page](http://www.smallvictories.com).
-
-### Ordering
-Files are shown in the order they appear in your site folder. You can reorder things simply by renaming them. For example, you can do something like:
-
-- `document-1.md`
-- `document-2.md`
-- `document-3.md`
-
-### Customizing your site
-Your site has a `custom.css` and `custom.js` file. You can write your own styles or scripts in these files and Small Victories will automatically insert them in the right places.
-
-Check out our [other themes](http://www.smallvictories.com) too.
-
-For more information on customizing your site, there’s more info [here](http://www.smallvictories.com).
+A speculative platform for creative-critical-code writing should have these qualities--identified across publishing, programming, and social content management systems (CMS): 
+- it's editable
+- it's operable/executable 
+- it's remixable (forking, modular, adaptable)
+- it's engageable (commentable, shareable) 
+- it's citable/sourceable (modular licensing)
+- it's traceable (version tracking, attribution)
+- it's language-agnostic (programming is writing)
+- it's useful, even fun, generative, creative, inspiring
+- it's readable/legible/understandable, accessible (are these the same--view it, understand it?)
+- it's portable: deplatformable, cross-publishable, distributed/standardized? cloud-hosted/shared
+- it's engaging community (represents different interactions 1:1, 1:many, many:many, self:self) 
+- it's process-oriented (pre-to-post publication workflow (drafts, revisions, editions; development & production)
+- it's robust (enough to withstand the above, which may mean minimalist)

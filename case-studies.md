@@ -1,7 +1,4 @@
-## new page
+## case studies (lit review)
 
-2021.04.26
+scope, who is already working in overlapping areas, why they inspire this and need building upon into new approaches
 
-archive of experiment
-
-![](favicon.png)

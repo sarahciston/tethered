@@ -2,4 +2,4 @@ title: tethered.network
 theme: document
 subdomain: tethered
 badge: show
-description: creative-critical-code writing that makes connections
+description: <a href="https://github.com/sarahciston">@sarahciston</a> <br><br>creative-critical-code writing that makes connections <br><br>experiments in code-as-writing, writing-as-code, platform-as-form, form-as-platform
