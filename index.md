@@ -1,13 +1,37 @@
-### hi, you've reached tethered.network
+# All Code Is Writing, All Writing Is Code
 
-I'm working on an article about creative-critical code-writing and tools to support it, and here's where I'm doing some thinking and making. Feel free to read along, and add your thoughts on the project's [github archive](https://github.com/sarahciston/tethered).
+[readme](readme.md)
 
-!["I can't tonight, I'm going online"](goingonline.jpg)
+<!-- !["I can't tonight, I'm going online"](goingonline.jpg) -->
 
-#### expanded reading: diffs & comments on github
+## 1. a provocation
 
-1. click through to the text's archive (repository) on [github](https://github.com/sarahciston/tethered), where you'll see a list of all the files that run this site.
+The way we read code is broken.  you are approaching code as a critical code studies scholar, an engineer trying to maintain an open-source library, or a student first learning to distinguish comments from functions—approaches to code that only consider it entirely separate from the content, writing (natural language), and other material it executes fall short of ...   
 
-2. just below the green Code button where you can download and remix this code for your own purposes, click the link to the number of **Commits** (or how many times changes have been saved to the repository). You'll get a list of every commit. Click the top (latest), or rewind to an earlier version if you like.
+By its "nature" it is abstracted away, under the hood, behind the scenes, meant to work without the end-user's understanding. The concept of abstraction, its presumed utility, has been so fundamental to computer science that it can be difficult to see beyond it to imagine scenarios where other values might produce other useful systems. 
 
-3. now you have a colorful look at every change, green (add) and red (delete), made to each file. AND when you point your cursor at a line, a blue plus sign appears at the left edge. Click on the blue plus sign to leave a comment! If you're in raw text mode you'll also see other readers' comments as well.
+Yet, entire realms of programming's utility, creative potential, etc may be missed because of siloed insistence that it is "for" some and not others. 
+
+
+### subject/description
+
+### problem/gap
+
+### why & so what
+
+This article sets out to imagine a speculative creative-critical coding-writing platform. It outlines some characteristics for that platform, its goals, and describes ~~why these characteristics help address these goals.~~
+
+**Key components:**
+
+**Qualities/characteristics:**
+- open: comments, version tracking, sharing, editable, readable/accessible, portable
+- embedded: connected/organic to its community
+- ethical:
+- 
+
+These goals point to an **ethics of code in community:** 
+- We acknowledge code and other forms of text are not so different. They coexist in every space either occupies, at this point. They merge and blur, influence and drift. We are intertwined with them.
+- We acknowledge and make legible that no one writes (code or any other text) in a vacuum.  
+- We acknowledge code is a commons, it isn't owned, but a love story of what we imagine could and should be in the world, what could and should connect us. If code acts, makes things happen, what do we want to happen? For and with whom? Which stories still need telling? 
+ 
+### approach, method, theory, how
