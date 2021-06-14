@@ -1,6 +1,6 @@
 ---
 title: ideal platform
-layout: post
+# layout: post
 nav_order: 3
 ---
 

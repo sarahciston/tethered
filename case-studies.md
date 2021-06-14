@@ -1,6 +1,6 @@
 ---
 title: case studies
-layout: post
+# layout: post
 nav_order: 2
 ---
 
