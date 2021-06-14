@@ -1,8 +1,8 @@
 ---
 title: ideal platform
+layout: post
 nav_order: 3
 ---
-
 
 ### ideal platform (discussion)
 
