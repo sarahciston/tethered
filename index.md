@@ -1,6 +1,11 @@
+---
+title: a provocation
+nav_order: 1
+---
+
 # All Code Is Writing, All Writing Is Code
 
-[readme](readme.md)
+<!-- [readme](readme.md) | [a provocation](a-provocation.md) | [case studies](case-studies.md) | [ideal platform](ideal-platform.md) -->
 
 <!-- !["I can't tonight, I'm going online"](goingonline.jpg) -->
 

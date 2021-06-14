@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 
-title: coding.care
+title: tethered.network
 description: every dissertation starts somewhere | bless this mess 
 
 
@@ -11,9 +11,9 @@ description: every dissertation starts somewhere | bless this mess
 links: 
   "Intersectional AI Toolkit": 
       - "https://sarahciston.github.io/intersectionalai"
-  "Tethered.Network": 
-    - "https://sarahciston.github.io/tetherednetwork"
-  "Portfolio": 
+  "Coding.Care": 
+    - "https://sarahciston.github.io/codingcare"
+  "More projects": 
     - "https://sarahciston.github.io"
 links_new_tab: true
 

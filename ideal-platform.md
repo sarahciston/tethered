@@ -1,3 +1,9 @@
+---
+title: ideal platform
+nav_order: 3
+---
+
+
 ### ideal platform (discussion)
 
 A speculative platform for creative-critical-code writing should have these qualities--identified across publishing, programming, and social content management systems (CMS): 

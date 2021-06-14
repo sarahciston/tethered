@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: lavender;
+  background-color: powderblue;
   font-family: Roboto Mono, monospace;
 }
 
 a, a:visited {
-  color: darkorange;
+  color: red;
   text-decoration-line: none;
 }
 
@@ -25,6 +25,6 @@ a:hover, a:active {
 
 @media screen and (min-width: 768px){
   body {
-    background: lavender;
+    // background: lavender;
   }
 }
