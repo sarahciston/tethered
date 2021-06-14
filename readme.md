@@ -1,4 +1,9 @@
-# tethered.network
+---
+title: readme
+nav_order: 4
+---
+
+<!-- # tethered.network -->
 
 ## readme: how to 
 
