@@ -24,7 +24,7 @@ prose:
   siteurl: 'https://sarahciston.github.io/sarahciston/tethered'
   media: 'assets/img'
   metadata:
-    _posts:
+    posts:
       - name: "layout"
         field: 
           element: "hidden"
