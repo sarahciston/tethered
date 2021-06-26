@@ -22,23 +22,27 @@ links_new_tab: true
 prose:
   rooturl: '_posts'
   siteurl: 'https://sarahciston.github.io/sarahciston/tethered'
-  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'assets/img'
   metadata:
     _posts:
-    	- name: "date"
-            field:
-              element: "number"
-              label: "date"
-              type: "number"
+    	- name: "layout"
+          field:
+            element: "hidden"
+            value: "default"
+        - name: "date"
+          field:
+            element: "number"
+            label: "date"
+            value: CURRENT_DATETIME
+            type: "number"
         - name: "nav_order"
-        	field:
-            	element: "number"
-                label: "nav_order"
-                type: "number"
+          field:
+            element: "number"
+            label: "nav_order"
+            type: "number"
         - name: "title"
-            field:
-              element: "text"
-              label: "title"
-              type: "text"
+          field:
+            element: "text"
+            label: "title"
+            type: "text"
 
