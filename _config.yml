@@ -25,26 +25,26 @@ prose:
   media: 'assets/img'
   metadata:
     _posts:
-    	- name: "layout"
-			field: 
-            	element: "hidden"
-                value: "default"
-        - name: "date"
-            field:
-              element: "number"
-              label: "date"
-              value: CURRENT_DATETIME
-              type: "number"
-        - name: "nav_order"
-            field:
-              element: "number"
-              label: "nav_order"
-              type: "number"
-        - name: "title"
-            field:
-              element: "text"
-              label: "title"
-              type: "text"
-	#users:
-    #- login: "sarahciston"
-    #  user: "Sarah Ciston"
+      - name: "layout"
+        field: 
+          element: "hidden"
+          value: "default"
+      - name: "date"
+        field:
+          element: "number"
+          label: "date"
+          value: CURRENT_DATETIME
+          type: "number"
+      - name: "nav_order"
+        field:
+          element: "number"
+          label: "nav_order"
+          type: "number"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          type: "text"
+    #users:
+      #- login: "sarahciston"
+      #  user: "Sarah Ciston"
