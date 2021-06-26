@@ -1,8 +1,8 @@
 ---
 layout: default
-date: .nan
+date: 2021-06-25
 nav_order: 7
-published: false
+published: true
 title: cms is content
 ---
 ## Managing content is content is code is a flat circle

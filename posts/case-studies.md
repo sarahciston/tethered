@@ -1,7 +1,9 @@
 ---
+layout: default
+date: 2021-06-17
+nav_order: 4
+published: true
 title: case studies
-# layout: post
-nav_order: 2
 ---
 
 ## case studies (lit review)

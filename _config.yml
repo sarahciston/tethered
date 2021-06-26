@@ -20,7 +20,7 @@ links_new_tab: true
 
 ## prose.io config
 prose:
-  rooturl: '_posts'
+  rooturl: 'posts'
   siteurl: 'https://sarahciston.github.io/sarahciston/tethered'
   media: 'assets/img'
   metadata:
