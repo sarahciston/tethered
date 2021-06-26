@@ -1,9 +1,10 @@
 ---
 layout: default
 date: 2021-06-17
-nav_order: 4
+nav_order: 3
 published: true
 title: case studies
+author: Sarah Ciston
 ---
 
 ## case studies (lit review)

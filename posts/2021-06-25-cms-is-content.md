@@ -1,9 +1,10 @@
 ---
 layout: default
 date: 2021-06-25
-nav_order: 7
+nav_order: 5
 published: true
 title: cms is content
+author: Sarah Ciston
 ---
 ## Managing content is content is code is a flat circle
 
