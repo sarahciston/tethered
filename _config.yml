@@ -42,10 +42,10 @@ prose:
       #     value: "default"
       - name: "date"
         field:
-          element: "number"
+          element: "text"
           label: "date"
           value: CURRENT_DATETIME
-          type: "number"
+          type: "text"
       - name: "nav_order"
         field:
           element: "number"

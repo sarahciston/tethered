@@ -1,10 +1,11 @@
 ---
 author: Sarah Ciston
 layout: default
-date: .nan
+date: 2021-06-17
 nav_order: 3
 published: true
 title: case studies
+author: Sarah Ciston
 ---
 
 ## case studies (lit review)
