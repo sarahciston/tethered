@@ -1,10 +1,10 @@
 ---
+author: Sarah Ciston
 layout: default
-date: 2021-06-25
+date: 'Thu Jun 24 2021 17:00:00 GMT-0700 (PDT)'
 nav_order: 5
 published: true
 title: cms is content
-author: Sarah Ciston
 ---
 ## Managing content is content is code is a flat circle
 
@@ -19,4 +19,11 @@ And yet I have seen the toolkits go out of business, fall out of favor, refuse t
 I've come, feeling sheepish and stupid about this, to discover this is called minimal computing, and it's long been suggested that I aim for minimum viable product rather than the grand unscopeable schemes my research brain cooks up once I get a fire lit under me. But as I write that, I think the one supports the other, really. Minimal computing allows us to dive in head first, without too much disorientation (while at the same time it perhaps isn't pushing us too far out of our boundaries from known forms)... where is that sweet spot, that growth edge where the magic of new—or better yet, refreshing (because Pound's make-it-new is detestably old and hegemonic).
 
 Writing again now with content manageless, making one's own system, or the system itself is the story, the metadata is the data, the file tree determines how the files emerge. And *this* is the reason for translucent layers between code and other kinds of writing, or as the programmers might call it when arguing for separation, between the business layer and the data layer, that is, the action and the acted upon, the force and the material. And yes, nuance and separation is essential, but to act as if these separations are static, persistent, natural, seems foolhearty and prone to miss so much richness and joy in the tension of their relation, ner, ~oneness~, threadedness. A thread pulled taut is a very different object than one slack, requires relations to its either end to exist, is not itself without its tension forces, nor is the tension much without its tangible material. And the warp and weft of many deft lines pulled crossways combine into a surface to act against. What is Relational is not only interactive but intra-active, inter/intra-subjective. So you see where my scoping issues arise.
+
+
+minimal computing which allows for combo of max layering of **transluscent** code. 
+
+
+
+
 
