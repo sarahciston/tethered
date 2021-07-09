@@ -1,10 +1,10 @@
 ---
+author: Sarah Ciston
 layout: default
-date: 2021-06-25
+date: 'Thu Jun 24 2021 17:00:00 GMT-0700 (PDT)'
 nav_order: 5
 published: true
 title: cms is content
-author: Sarah Ciston
 ---
 ## Managing content is content is code is a flat circle
 
@@ -22,3 +22,10 @@ Writing again now with content manageless, making one's own system, or the syste
 
 [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
 [minimum computing](http://go-dh.github.io/mincomp/thoughts/2019/10/10/gbl/)
+
+minimal computing which allows for combo of max layering of **transluscent** code. 
+
+
+
+
+
