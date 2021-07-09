@@ -16,6 +16,7 @@ scope, who is already working in overlapping areas, why they inspire this and ne
 - [ ] *Aesthetic Programming* & other github writing processes
 - [ ] attempts to make github differently visualised: [OSP VisualCulture](http://osp.kitchen/tools/visualculture/), a kind of website file tree (?) and [Prose](https://github.com/prose/prose/), a kind of CMS filetree (?)
 - [ ] Katherine Yang's poetic & emotional esolang **e?xpress**
+- [ ] [Gitless](https://gitless.com/)!!! What happened to it?
 
 ### widely applied? 
 - Jupyter notebooks & Colab
