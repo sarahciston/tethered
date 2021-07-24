@@ -4,9 +4,56 @@ layout: default
 date: 'Thu Jun 24 2021 17:00:00 GMT-0700 (PDT)'
 nav_order: 5
 published: true
-title: cms is content
+title: notes
 ---
-## Managing content is content is code is a flat circle
+
+## TOC outline
+
+> for DHQ: critical code studies version
+> All Code Is Writing, All Writing Is Code: Brief Manifestos for Creative-Critical-Code
+
+1. a provocation
+   1. subject/description
+   2. problem/gap
+   3. why/so what
+   4. overview - in brief of ideal platform
+      1. key components, 
+      2. qualities/characteristics, 
+      3. goals/outcomes
+2. DHQ: case studies
+   1. write around about the code: literate programming > notebooks
+   2. use code tools to write, improve the tools to help writing: writing with github < AP, penflip et al, Jeremy's
+   3. make code itself more inviting, use code itself to write: KY & compassionate errors & invented
+3. CARPA: ideal platform - tethered imagined, IAI
+   1. key components, 
+   2. qualities/characteristics, 
+   3. goals/outcomes
+4. POM: (other paper) how it works as applied
+   1. struggles
+   2. learned
+5. conclusion
+
+> for CARPA: writing and performance and artistic research methods
+> BRIEF MANIFESTOS FOR DIGITAL WRITING PLATFORMS OF THE FUTURE: Creative-Critical-Code Writing As Artistic Research and Performance
+
+> for POM: through the lens of the IAIT project, workshop outcomes added after draft. intersectional emphasis
+> Brief Manifestos for Future Platforms: Creative-Critical-Code Writing Toward Intersectional Systems
+
+What will each version do that extends my research independent of the others, what question will it ask or extend?
+1. D - survey, lay out ideal, code side
+2. C - writing and performance and process oriented, failure circle
+3. P - applied version
+
+**presentation style: web, gifs, demo as/on platform if possible? **
+
+## translucent code
+
+this is the goal, translucent code, translucent text, and meaning nested in its material conditions of both. 
+
+allowing for *end-user programming* (Nardi) more egalitarian relationships with code
+
+## cms is content
+### Managing content is content is code is a flat circle
 
 I am writing this from a headless CMS, a horseman skinned over Github as I try to make sense of the ways I might make layering coding and other forms of writing easier and more transparent for myself and others, and yet the more I dig in the more tangled I've gotten myself.
 
@@ -21,6 +68,7 @@ I've come, feeling sheepish and stupid about this, to discover this is called mi
 Writing again now with content manageless, making one's own system, or the system itself is the story, the metadata is the data, the file tree determines how the files emerge. And *this* is the reason for translucent layers between code and other kinds of writing, or as the programmers might call it when arguing for separation, between the business layer and the data layer, that is, the action and the acted upon, the force and the material. And yes, nuance and separation is essential, but to act as if these separations are static, persistent, natural, seems foolhearty and prone to miss so much richness and joy in the tension of their relation, ner, ~oneness~, threadedness. A thread pulled taut is a very different object than one slack, requires relations to its either end to exist, is not itself without its tension forces, nor is the tension much without its tangible material. And the warp and weft of many deft lines pulled crossways combine into a surface to act against. What is Relational is not only interactive but intra-active, inter/intra-subjective. So you see where my scoping issues arise.
 
 [minimum viable learning](https://www.schoolofcommons.org/labs/minimum-viable-learning)
+
 [minimum computing](http://go-dh.github.io/mincomp/thoughts/2019/10/10/gbl/)
 
 minimal computing which allows for combo of max layering of **transluscent** code. 

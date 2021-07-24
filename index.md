@@ -1,6 +1,7 @@
 ---
 title: a provocation
 nav_order: 1
+date: 2021-07-24 13:41 -0700
 ---
 
 # All Code Is Writing, All Writing Is Code
@@ -40,3 +41,5 @@ These goals point to an **ethics of code in community:**
 - We acknowledge code is a commons, it isn't owned, but a love story of what we imagine could and should be in the world, what could and should connect us. If code acts, makes things happen, what do we want to happen? For and with whom? Which stories still need telling? 
  
 ### approach, method, theory, how
+
+intersectional, critical code studies, 
