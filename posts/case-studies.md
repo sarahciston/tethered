@@ -1,7 +1,7 @@
 ---
 author: Sarah Ciston
 layout: default
-date: 2021-06-17 16:35 -0700
+date: 2021-07-26 13:13 -0700
 nav_order: 3
 published: true
 title: case studies

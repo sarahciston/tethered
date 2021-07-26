@@ -1,7 +1,7 @@
 ---
 author: Sarah Ciston
 layout: default
-date: 'Thu Jun 24 2021 17:00:00 GMT-0700 (PDT)'
+date: 2021-07-26 13:13 -0700
 nav_order: 5
 published: true
 title: notes
@@ -41,8 +41,21 @@ title: notes
 
 What will each version do that extends my research independent of the others, what question will it ask or extend?
 1. D - survey, lay out ideal, code side
+   1. existing examples are neither code poetry in one extreme nor over privileging code as it subject in the other extreme
+      1. code is not the sole subject matter of code. writings on code so far have been ABOUT code, its execution instead of allowing code to BE WITH other writing where those contextual shared meanings can emerge. (trin t minh ha)
+      2. this has been denied except in code poetry, where that (CP) has been sidelined as esoteric and non functional and also in its own way about code. All of this persists the illusion that code is separate from, rather than embedded in, the operating codes of the world, that it is specialized language for the technical monks not the people. 
+      3. it is always already in relation to what it is executing/meaning linguistically 
+      4. needs to make legible its closer relationship to the other forms of writing AS writing
+   2. need to rethink how we do code critique... or how we do code situated ness in humanities, in a broader way that is more literary and arts and humanities based
+      1. would lead to more potentials that are egalitarian and expressive and reflective of the world as it is, as it could be... queer critical creative code writing
 2. C - writing and performance and process oriented, failure circle
-3. P - applied version
+   1. meaning making through code-writing hybrids, the performance/materiality of making with material, ongoingness... exploded diagrams of car repair
+
+3. P - applied version: HIIG results, zine, a Branch of IAI for workshop edits
+
+>not form but force, not content but materials (ingold)
+>nardi
+
 
 **presentation style: web, gifs, demo as/on platform if possible? **
 
@@ -50,7 +63,15 @@ What will each version do that extends my research independent of the others, wh
 
 this is the goal, translucent code, translucent text, and meaning nested in its material conditions of both. 
 
-allowing for *end-user programming* (Nardi) more egalitarian relationships with code
+- allows for *end-user programming* (>Nardi) more egalitarian relationships with code
+- dismantles (re-entangle) the user-dev binary
+- also creative code collective model for more open teaching and exposures to code learning
+- makes tools that reveal their own processes, a process-oriented ethic rather than hiding their gears, 
+- to trace the authors and origins is a politic and an ethic
+
+requires new more capacious forms that cross genre/content borders and can hold ideas gently and can welcome in uncertainty
+
+
 
 ## cms is content
 ### Managing content is content is code is a flat circle

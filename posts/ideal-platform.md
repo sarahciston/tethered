@@ -39,5 +39,5 @@ A speculative platform for creative-critical-code writing should have these qual
 ### process
 
 - many false starts, many attempts at cobbling together imperfect platforms before realizing that it was a complete paradigm shift I am describing? 
-- is this a browser extension, a code library, a misuse of an existing tool, a syntax convention and text-scraping script, etc. (Queer Use)
+- is this a browser extension, a code library, a misuse of an existing tool, a syntax convention and text-scraping script, etc. (Queer Use) ... this is an unanswered question, still imaginging the perfect tool and failing to build it but struggling to find it and tinkering to build it is the way to avoid the writing/thinking
 
