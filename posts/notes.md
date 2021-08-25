@@ -32,6 +32,16 @@ title: notes
       3. an artistic research practice that uses both
    2. qualities/characteristics, 
       1. process over product, community collaboration, access, legibility, and the plat/form-content relationship
+      2. LEGIBLE: approachable, learnable
+      3. MEANINGFUL: participates in material & semantic significance
+      4. COMMUNAL: performative, process-oriented, community creativity
+      5. comes from two behaviors
+      6. TRACEABLE: 
+         1. - structurally: FORK, MERGE, MOD, REMIX 
+         2. - discursively: COMMENT, ATTRIBUTE
+      7. TRANSLUCENT
+         1. - structurally: layering meaning
+         2. - discursively: accessing learning
    3. what comes from where
       1. critical code studies/github: predictive text, syntax highlighting, expanded holistic digital material object / siloed off, limits people's ability to read programming language as part of writing system, forkable & remixable
       2. medium/hypothesis: line-by-line comments, socially embedded, networked across articles, recommendation system
