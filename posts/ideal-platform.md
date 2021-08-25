@@ -98,33 +98,18 @@ CARPA: ideal platform - tethered imagined, IAI
 
 Thank you to CARPA for this panel. I'm excited to join my fellow panelists and for the chance to speak on this topic. I'm Sarah Ciston, a Mellon Fellow and PhD Candidate at USC, where I research how to make AI more intersectional. My background is in creative writing and creative-critical coding, which I explore through artistic research that does weird things with text-based machine learning to discover its limits and its possibilities. 
 
-Today I will talk about the practice of creative-critical-code writing as artistic research. I want to think of this as both a hybrid practice and a possible shift in how we consider digital writing platforms. I'm especially interested in how to bring more ethical and equitable practices to existing spaces and the new ones we create. 
+Today I will talk about my practice of creative-critical-code writing as artistic research. I think of this as both a hybrid practice and a possible shift in how we consider digital writing platforms. I'm especially interested in how to bring more ethical and equitable practices to existing spaces and the new ones we create. 
 
-TOC: So first I will make a case for new platforms and forms of hybrid writing, and talk about the potential impacts of making this potential shift to creative-critical-code writing.
-
-Then I'll the qualities or characteristics I argue it needs to have that would distinguish it from existing modes and existing spaces. ~~Then I'll touch in particular on the aspects of this modality that are performative, process-oriented, and why that matters so much.~~ 
-
-Finally I'll show a few examples that I've begun in my own research practice, which I'm continuing to build on as I develop a prototype platform. 
-
-WHY SLIDE: 
-
-~~As writers, our encounters with text can be ones of awe sublime experiences, in the ~~
+SLIDE?
 
 Most of our approaches to programming languages consider them only and entirely separate from the other written content they supports—that is to say, the writing (or so-called natural language and other material they are meant to execute. By this understanding, code is abstracted away, under the hood, behind the scenes, meant to work without the end-user's understanding. The concept of abstraction, its presumed utility, has been so fundamental to computer science that it can be difficult to see beyond it in order to imagine scenarios where other values might emerge. Yet, opportunities for creative encounters and entire realms of programming's utility may be missed because of a narrow insistence that it is "for" some folks and not others. And that these select few can act upon all of us as the invisible "quote unquote neutral" hand of the machine.
 
 BONNIE: Bonnie Nardi says that "Computer-centric terms such as **'novice'** obscure the possibilities for creating appropriate end user systems and **are prejudicial** in assigning prominence to the computer."
 
+Inspired by intersectional feminist approaches and by work in critical code studies and cross-genre writing, I have set out to sketch a speculative creative-critical-code-writing platform. I'll outline the goals and impacts of that platform, some characteristics it would need to have in order to achieve these goals, which would distinguish it from existing spaces and modalities, and then I'll show a few concrete examples from my own research practice that help illustrate these ideas, which I'm continuing to build on as I develop a prototype platform. 
 
 
-This approach fall short of ...   
-
-
-
-
-
-HISTORY: Just briefly, existing platforms do hint at the possibilities for creative-critical-code writing in many ways but do not exploit the possibilities for in this area. For example, plenty of writers are beginning to use Git and Github to do version control on their writing, but it remains a very unfriendly onboarding experience for anyone coming from outside the software and computer science industries, as it was designed strictly for these processes. 
-
-Previous attempts to think code and writing together, while legitimately fascinating, have always made code their primary focus. 
+HISTORY: I'd like to mention that... existing platforms do hint at the possibilities for creative-critical-code writing in many ways but do not exploit its possibilities fully. For example, plenty of writers are beginning to use Git and Github to do version control on their writing, but it remains a very unfriendly onboarding experience for anyone coming from outside the software and computer science industries, as it was designed strictly for these processes. Previous attempts to think code and writing together, while legitimately fascinating, have always made code their primary focus. 
 
 SCARE: Describing her code poetry net art piece “Code Scares Me”, Jessica Loseby says, “the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text.” In the video documentation of the piece, which is now unavailable thanks to the death of FLASH, the experience is riddled with an excess of HTML code overwhelming the primary text fragments like *if only I could see you and you could see me* but adding all kinds of meaningful easter eggs. Her work hints at the same desire I have for code layers to surface and be legible and meaningful, albeit less overwhelmingly so than in Loseby's early 2000s example.
 
@@ -137,35 +122,47 @@ Sites like Medium do offer ...
 
 
 
-
-JEROME: To wit, Jerome McGann argues that “Digital tools have **yet to develop models** for displaying and replicating **the self-reflexive operations** of bibliographical tools [...] for **transforming storage into memory, and data into knowledge**. We have to design and build digital environments for those purposes.” I suggest this requires more than an upgrade of features, but an actual reconfiguration of the relationship between natural and machinic languages, one that dissolves the areas where we have artificially divided them.
+JEROME: The problem is that the shift is not considered as a true overhaul, as far as I can tell. To wit, Jerome McGann argues that “Digital tools have **yet to develop models** for displaying and replicating **the self-reflexive operations** of bibliographical tools [...] for **transforming storage into memory, and data into knowledge**. We have to design and build digital environments for those purposes.” I suggest this requires more than an upgrade of features, but an actual reconfiguration of the relationship between natural and machinic languages, one that dissolves the areas where we have artificially divided them.
 
 Each kind of language does indeed have unique characteristics, and it is important not to lose that nuance in the process. However, in specialization, let's not also lose the opportunity to think and write them together in more complex and in depth ways, which we have done by separating them into the work of users or writers, and developers or coders. 
 
 
 
+1. process over product, community collaboration, access, legibility, and the plat/form-content relationship
+      1. comes from two behaviors
+      2. TRACEABLE: 
+         1. - structurally: FORK, MERGE, MOD, REMIX 
+         2. - discursively: COMMENT, ATTRIBUTE
+      3. TRANSLUCENT
+         1. - structurally: layering meaning
+         2. - discursively: accessing learning
 
-
-
-GOALS: 
-
-Basically, the goal is to imagine traceable and translucent code and text, with greater space for meaning created in the material conditions where they intersect. 
 
 IMPACT: The impact of this would be to unravel the false binary between users and developers, re-engaging us with our tools. It would allow for what Bonnie Nardi calls "end-user programming", where the folks who create with digital tools have more egalitarian relationships with the code they use, rather than being subject strictly to the uses imagined by its designers. This would also open up space for more process-oriented approaches and ethics, rather than final product motivated work. Process-oriented approaches let us trace authors and origins, which carries political weight, particularly in meme culture. Plus, when explainability is foregrounded and tools reveal their own processes, this can provide more open teaching models and broader exposure to casual, accessible, egalitarian teaching and learning. All this requires new, capacious forms that are willing to cross genre and content boarders and that can hold new paradigms tenderly and destabilize categories. 
 
 
-HOW: How do we do this? I started with a laundry list of ideas, a lengthy collection of characteristics for what I imagined a creative-critical-code writing platform would require... most of which I spotted on other existing platforms. I've been scouring the Web 2.0 to see if I could duct-tape together my dream platform, but nothing has been quite right. It should have the sociability and comment-friendly interface of a streamlined writing platform like Medium.com. It should have version tracking and format agnostic like Github. It should be modular and open-source and portable. 
-
-I've starting to put together what these aspects have in common, and I've started to distill it down to a few key areas. 
-
-Namely, all the aspects of the speculative platform focused FIRST around LEGIBILITY so that it could be accessible and offer learning, SECOND around creating MEANING through creating connections between the kinds of language, THIRD around CONNECTIONå
+GOALS: So, in order to make this leap, how do we do this? I started with a laundry list of ideas, a lengthy collection of characteristics for what I imagined a creative-critical-code writing platform would require... most of which I spotted on other existing platforms. I've been scouring the Web 2.0 to see if I could duct-tape together my dream platform, but nothing has been quite right. It should have the sociability, comment-friendly interface, and recommendation system of a streamlined writing platform like Medium.com. It should have version tracking and comparable diffs like GitHub. It should be modular and open-source and portable. 
 
 
-Incorporating code supports this by adding **traceability** and **translucence** to the digital writing. 
+SLIDE: I've starting to put together what these aspects have in common, and I've started to distill it down to a few key areas. Namely, all the aspects of the speculative platform focused FIRST around LEGIBILITY so that it could be accessible, approachable, and offer learning; SECOND around creating MEANING through layered connections between the kinds of language in tangible ways; THIRD around A LIVELY COMMUNITY that is collaborative and always in-process. 
+
+SLIDE: My sense so far is that this comes from two traits in particular, that run across all aspects of this speculative platform: TRACEABILITY and TRANSPARENCY. 
+
+With traceable texts, we aim for forkable, mergeable, modifyable, remixable texts perhaps structured like platforms like Github.
+Traceable texts are also connected through their systems of comments and attributions, which take inspiration from both Github and Medium.
+
+With transparent texts, we aim for layered structures that allow the meanings of code and natural languages to overlap and converge.
+Transparent text also means accessible, legible approaches to learning that don't silo off specialized technical knowledge but foreground code as part of how discourse is produced.
+
+Through this, perhaps we can start to imagine traceable and translucent code and text, with greater space for new forms of meaning and community created in the material conditions where they intersect. 
+
+
+
+
 
 
 EXAMPLE: 
-Examples from my own research where I see this happening and where I have started to put this into practice:
+I'd love to share some examples from my own research where I see this happening and where I have started to put this into practice:
 
 1. Platform experiments in visible code that bring the dev tools that are usually hidden in the web browser forward to be part of the text. In Chrome on a Mac you can right click an element and select Inspect, or a keyboard shortcut is Command+Option+I to bring up the page source, including html, any javascript, and CSS. But what if these were more readily visible through a browser extension or as part of the site itself, lowering the barrier between code and natural language text and lowering the barrier to entry to learning how code affects the other forms of writing it intersects with? Separating it off by hiding it in the developer tools as if only for already-skilled developers treats coding as an elite knowledge form and disallows the opportunity for potential coders to understand and influence these relationships like they could if code text and other writing could co-mingle.
    
