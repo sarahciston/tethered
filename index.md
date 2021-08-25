@@ -23,6 +23,11 @@ Yet, entire realms of programming's utility, creative potential, etc may be miss
 
 ### problem/gap
 
+
+>"these allopoietic text-processing systems [such as metadata and markup] cannot access or display the autopoietic character of textual fields. Digital tools have yet to develop models for displaying and replicating the self-reflexive operations of bibliographical tools, which alone are operations for thinking and communicating—which is to say, for transforming storage into memory, and data into knowledge.
+>"We have to design and build digital environments for those purposes. A measure of their capacity and realization will be whether they can integrate data-function mechanisms like TEI into their higher-order operations." (McGann 2014, 96)
+
+
 ### why & so what
 
 This article sets out to imagine a speculative creative-critical coding-writing platform. It outlines some characteristics for that platform, its goals, and describes ~~why these characteristics help address these goals.~~

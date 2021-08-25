@@ -10,7 +10,8 @@ title: notes
 ## TOC outline
 
 > for DHQ: critical code studies version
-> All Code Is Writing, All Writing Is Code: Brief Manifestos for Creative-Critical-Code
+> **All Code Is Writing, All Writing Is Code: The Case for New Platforms** 
+> Brief Manifestos for Creative-Critical-Code
 
 1. a provocation
    1. subject/description
@@ -26,18 +27,34 @@ title: notes
    3. make code itself more inviting, use code itself to write: KY & compassionate errors & invented
 3. CARPA: ideal platform - tethered imagined, IAI
    1. key components, 
+      1. a hybrid form of creative-critical-code writing
+      2. a platform/tool for creating & experiencing the above kinds of content, expanded experience of text
+      3. an artistic research practice that uses both
    2. qualities/characteristics, 
-   3. goals/outcomes
-4. POM: (other paper) how it works as applied
+      1. process over product, community collaboration, access, legibility, and the plat/form-content relationship
+   3. what comes from where
+      1. critical code studies/github: predictive text, syntax highlighting, expanded holistic digital material object / siloed off, limits people's ability to read programming language as part of writing system, forkable & remixable
+      2. medium/hypothesis: line-by-line comments, socially embedded, networked across articles, recommendation system
+      3. creative writing/gifs
+   4. goals/outcomes
+      1. critical-code-embedded lyric artistic research essays: lively documents that reveal and enact their own processes, and trace their authors and collaborations
+      2. form, platform, approach, and ethic
+      3. expanding the accessibility and interpretability of code
+      4. invite the bodies who are composing back into our code and our literary forms—and to imagine new forms 
+4. POM: (other paper) how it works as applied, follow up from workshop = add after paper version, due Aug 30?)
    1. struggles
    2. learned
 5. conclusion
 
-> for CARPA: writing and performance and artistic research methods
-> BRIEF MANIFESTOS FOR DIGITAL WRITING PLATFORMS OF THE FUTURE: Creative-Critical-Code Writing As Artistic Research and Performance
 
-> for POM: through the lens of the IAIT project, workshop outcomes added after draft. intersectional emphasis
-> Brief Manifestos for Future Platforms: Creative-Critical-Code Writing Toward Intersectional Systems
+
+
+> for CARPA: writing and performance and artistic research methods
+> BRIEF MANIFESTOS FOR DIGITAL WRITING PLATFORMS OF THE FUTURE: 
+> **Creative-Critical-Code Writing As Artistic Research and Performance**
+
+> for POM: through the lens of the IAI Toolkit project, workshop outcomes added after draft. intersectional emphasis
+> Brief Manifestos for **Future Platforms: Creative-Critical-Code Writing Toward Intersectional Systems**
 
 What will each version do that extends my research independent of the others, what question will it ask or extend?
 1. D - survey, lay out ideal, code side
@@ -49,9 +66,9 @@ What will each version do that extends my research independent of the others, wh
    2. need to rethink how we do code critique... or how we do code situated ness in humanities, in a broader way that is more literary and arts and humanities based
       1. would lead to more potentials that are egalitarian and expressive and reflective of the world as it is, as it could be... queer critical creative code writing
 2. C - writing and performance and process oriented, failure circle
-   1. meaning making through code-writing hybrids, the performance/materiality of making with material, ongoingness... exploded diagrams of car repair
-
-3. P - applied version: HIIG results, zine, a Branch of IAI for workshop edits
+   1. meaning making through code-writing hybrids, the performance/materiality of making with material, ongoingness... iterative practices, moon phases and mutual aid networks rather than fixed info capitalist individualist ideas of authorship and publishing, but that are capable of honoring contributions from knowledge systems outside the western canon. can see knowledge from multiple layers and levels and intersections, moving through them. exploded diagrams of car repair
+   2. 
+3. P - applied version: HIIG results, zine, a Branch of IAI for workshop edits. putting this through the paces on a project about intersectional AI, which tries to create 
 
 >not form but force, not content but materials (ingold)
 >nardi

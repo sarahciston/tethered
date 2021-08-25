@@ -5,11 +5,22 @@ nav_order: 3
 date: 2021-07-24 13:41 -0700
 ---
 
+### a process, a material, a form, a platform
+
+Thank you to CARPA for this panel. I'm excited to join my fellow panelists and for the chance to speak on this topic. I'm Sarah Ciston, a Mellon Fellow and PhD Candidate at USC, where I research how to make AI more intersectional. My background is in creative writing and creative-critical coding, which I explore through artistic research that does weird things with text-based machine learning to discover its limits and its possibilities. 
+
+Today I will talk about the practice of creative-critical-code writing as artistic research. I want to think of this as both a hybrid practice and a possible shift in how we consider platforms. I'm especially interested in how to bring more ethical and equitable practices to existing spaces and the new ones we create. 
+
+TOC: So first I will cover the case for new platforms and forms of hybrid writing, the qualities or characteristics I argue it needs to have that distinguish it from existing modes, and what existing spaces it's inspired by where we see it emerging already. Then I'll touch in particular on the aspects of this modality that are performative, process-oriented, and why that matters so much. Finally I'll talk about the important impacts of making this potential shift to creative-critical-code writing.
+
+
+
+
 ### ideal platform (discussion)
 
 A speculative platform for creative-critical-code writing should have these qualities--identified across publishing, programming, and social content management systems (CMS): 
 - it's editable
-- it's operable/executable 
+- it's *operable/executable* 
 - it's remixable (forking, modular, adaptable)
 - it's engageable (commentable, shareable) 
 - it's citable/sourceable (modular licensing)
@@ -41,3 +52,29 @@ A speculative platform for creative-critical-code writing should have these qual
 - many false starts, many attempts at cobbling together imperfect platforms before realizing that it was a complete paradigm shift I am describing? 
 - is this a browser extension, a code library, a misuse of an existing tool, a syntax convention and text-scraping script, etc. (Queer Use) ... this is an unanswered question, still imaginging the perfect tool and failing to build it but struggling to find it and tinkering to build it is the way to avoid the writing/thinking
 
+
+
+#### outline
+
+CARPA: ideal platform - tethered imagined, IAI
+   1. key components, 
+      1. a hybrid form of creative-critical-code writing
+      2. a platform/tool for creating & experiencing the above kinds of content, expanded experience of text
+      3. an artistic research practice that uses both
+   2. qualities/characteristics, 
+      1. process over product, community collaboration, access, legibility, and the plat/form-content relationship
+   3. what comes from where
+      1. critical code studies/github: predictive text, syntax highlighting, expanded holistic digital material object / siloed off, limits people's ability to read programming language as part of writing system, forkable & remixable
+      2. medium/hypothesis: line-by-line comments, socially embedded, networked across articles, recommendation system
+      3. creative writing/gifs
+   4. goals/outcomes
+      1. critical-code-embedded lyric artistic research essays: lively documents that reveal and enact their own processes, and trace their authors and collaborations
+      2. form, platform, approach, and ethic
+      3. expanding the accessibility and interpretability of code
+      4. invite the bodies who are composing back into our code and our literary forms—and to imagine new forms 
+
+
+> for CARPA: writing and performance and artistic research methods
+
+> BRIEF MANIFESTOS FOR DIGITAL WRITING PLATFORMS OF THE FUTURE: 
+> **Creative-Critical-Code Writing As Artistic Research and Performance**

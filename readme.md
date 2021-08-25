@@ -15,6 +15,8 @@ I'm working on an article about creative-critical code-writing and tools to supp
 
 Feel free to read along, and add your thoughts on the project's [github archive](https://github.com/sarahciston/tethered).
 
+<!-- add instructions for forking -->
+
 1. click above to view the text's archive (repository), where you'll see a list of all the files that run this site.
 
 2. just below the green Code button where you can download and remix this code for your own purposes, click the link to the number of **Commits** (or how many times changes have been saved to the repository). 

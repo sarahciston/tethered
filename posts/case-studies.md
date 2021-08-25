@@ -33,6 +33,7 @@ scope, who is already working in overlapping areas, why they inspire this and ne
 - [ ] Katherine Yang's poetic & emotional esolang **e?xpress**
 - aside: [Feminist Solution to A-Time](https://www.youtube.com/watch?v=fHjsdyN4UK0)
 
+- [Promiscuous Publishing](https://constantvzw.org/wefts/webpublications.en.html) examples of online to text pipelines and alternative hybrid models
 
 ### why these are different & questions
 - literate programming still could expand another layer further, focus was still on code as the primary document, whereas can we think more holistically, bring more folks from more disciplines and communities into conversation, produce different kinds of intersecting meaning 
