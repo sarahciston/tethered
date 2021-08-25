@@ -128,17 +128,8 @@ Each kind of language does indeed have unique characteristics, and it is importa
 
 
 
-1. process over product, community collaboration, access, legibility, and the plat/form-content relationship
-      1. comes from two behaviors
-      2. TRACEABLE: 
-         1. - structurally: FORK, MERGE, MOD, REMIX 
-         2. - discursively: COMMENT, ATTRIBUTE
-      3. TRANSLUCENT
-         1. - structurally: layering meaning
-         2. - discursively: accessing learning
 
-
-IMPACT: The impact of this would be to unravel the false binary between users and developers, re-engaging us with our tools. It would allow for what Bonnie Nardi calls "end-user programming", where the folks who create with digital tools have more egalitarian relationships with the code they use, rather than being subject strictly to the uses imagined by its designers. This would also open up space for more process-oriented approaches and ethics, rather than final product motivated work. Process-oriented approaches let us trace authors and origins, which carries political weight, particularly in meme culture. Plus, when explainability is foregrounded and tools reveal their own processes, this can provide more open teaching models and broader exposure to casual, accessible, egalitarian teaching and learning. All this requires new, capacious forms that are willing to cross genre and content boarders and that can hold new paradigms tenderly and destabilize categories. 
+The impact of this would be to unravel the false binary between users and developers, re-engaging us with our tools. It would allow for what Bonnie Nardi calls "end-user programming", where the folks who create with digital tools have more egalitarian relationships with the code they use, rather than being subject strictly to the uses imagined by its designers. This would also open up space for more process-oriented approaches and ethics, rather than final product motivated work. Process-oriented approaches let us trace authors and origins, which carries political weight, particularly in meme culture. Plus, when explainability is foregrounded and tools reveal their own processes, this can provide more open teaching models and broader exposure to casual, accessible, egalitarian teaching and learning. All this requires new, capacious forms that are willing to cross genre and content boarders and that can hold new paradigms tenderly and destabilize categories. 
 
 
 GOALS: So, in order to make this leap, how do we do this? I started with a laundry list of ideas, a lengthy collection of characteristics for what I imagined a creative-critical-code writing platform would require... most of which I spotted on other existing platforms. I've been scouring the Web 2.0 to see if I could duct-tape together my dream platform, but nothing has been quite right. It should have the sociability, comment-friendly interface, and recommendation system of a streamlined writing platform like Medium.com. It should have version tracking and comparable diffs like GitHub. It should be modular and open-source and portable. 
@@ -164,11 +155,11 @@ Through this, perhaps we can start to imagine traceable and translucent code and
 EXAMPLE: 
 I'd love to share some examples from my own research where I see this happening and where I have started to put this into practice:
 
-1. Platform experiments in visible code that bring the dev tools that are usually hidden in the web browser forward to be part of the text. In Chrome on a Mac you can right click an element and select Inspect, or a keyboard shortcut is Command+Option+I to bring up the page source, including html, any javascript, and CSS. But what if these were more readily visible through a browser extension or as part of the site itself, lowering the barrier between code and natural language text and lowering the barrier to entry to learning how code affects the other forms of writing it intersects with? Separating it off by hiding it in the developer tools as if only for already-skilled developers treats coding as an elite knowledge form and disallows the opportunity for potential coders to understand and influence these relationships like they could if code text and other writing could co-mingle.
+1. Here's one example of a design experiment in visible code meant to bring the developer tools that are usually hidden in the web browser forward to be part of the text. In Chrome on a Mac you can normally right-click an element and select Inspect, or a keyboard shortcut is Command+Option+I to bring up the page source, including html, any javascript, and CSS. These are tucked away, but what if these were more readily visible through a browser extension or as part of the site itself, lowering the barrier between code and natural language text and lowering the barrier to entry to learning how code affects the other forms of writing it intersects with? Separating it off by hiding it in the developer tools as if only for already-skilled developers treats coding as an elite knowledge form and disallows the opportunity for potential coders to understand and influence these relationships like they could if code text and other writing could co-mingle.
    
-2. A second example is in recent work I've undertaken with Mark Marino, in which we were invited to fork a book written on GitLab by Winnie Soon and Geoff Cox. Because the book was 
+2. A second example is in recent work I've undertaken with Mark Marino, in which we were invited to fork a book written on GitLab by Winnie Soon and Geoff Cox. Because the book was open-source and open-access, our approach to understanding the text as readers and as community members shifted.
 
-
+...
 
 
 3. A third example to touch on briefly: I am exploring this in terms of platforms that take inspiration from print zines from the 1990s, both their aesthetic and material forms and their politics, their means of distribution through the world and their word of mouth collaborations. My prototype for this work is a series of zines on how to bring practices from Intersectional feminist, queer, and anti-racist communities to AI. It's hosted on github and edited through community workshops and print-digital hybrid distribution so that it remains a living document rather than being shaped by a single voice. 
