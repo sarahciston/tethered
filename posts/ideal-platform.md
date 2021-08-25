@@ -111,9 +111,28 @@ Finally I'll show a few examples that I've begun in my own research practice, wh
 
 
 
+
+Just briefly, existing platforms do hint at the possibilities for creative-critical-code writing in many ways but do not exploit the possibilities for in this area. For example, plenty of writers are beginning to use Git and Github to do version control on their writing, but it remains a very unfriendly onboarding experience for anyone coming from outside the software and computer science industries, as it was designed strictly for these processes. 
+
+Previous attempts to think code and writing together, while legitimately fascinating, have always made code their primary focus. 
+
+SLIDE: Describing her code poetry net art piece “Code Scares Me”, Jessica Loseby says, “the prospect of a language that is both hidden and alien to me haunts my work on the net. Like most prejudices, it is born out of fear. I am afraid of what lies buried within the under text.” In the video documentation of the piece, which is now unavailable thanks to the death of FLASH, the experience is riddled with an excess of HTML code overwhelming the primary text fragments like *if only I could see you and you could see me* but adding all kinds of meaningful easter eggs. Her work hints at the same desire I have for code layers to surface and be legible and meaningful, albeit less overwhelmingly so than in Loseby's early 2000s example.
+
+Code poetry, which came up during 1990s net art era, used the languages and syntax of programming to write poems, and many of these were still viable as executable code. However, while these played with writing and code together, they remained esoteric and exclusive rather than reaching a broad audience among readers or programmers or able to bridge those gaps. 
+
+BACK: Rewinding a bit further, Literate Programming, a concept established by Donald Knuth in the 1970s, flipped the focus of software writing, so that rather than writing source code with a bit of documentation, the programmer was instructed to write robust documentation surrounding code. The primary text was the document describing what the code would do, the comments outweighed the executable lines, in a way. And although it does attempt to humanize programming, the focus of literate programming is still on writing code. Thus, it's not enough of a paradigm shift for the creative-critical-code writing hybrids that I am trying to advocate for today.
+
+
+
+
 SLIDE: Jerome McGann argues that “Digital tools have **yet to develop models** for displaying and replicating **the self-reflexive operations** of bibliographical tools [...] for **transforming storage into memory, and data into knowledge**. We have to design and build digital environments for those purposes.” I suggest this requires more than a XXXXXX but a reconfiguration of the relationship between natural and machinic languages that dissolves the areas where we have artificially divided them and artificially divided the work of their authorship. 
 
-They do indeed have unique characteristics, and it is important not to lose that nuance in the process. However, in specialisation, let's not also lose the opportunity to think and write them together in more complex and in depth ways, which we have done. 
+They do indeed have unique characteristics, and it is important not to lose that nuance in the process. However, in specialization, let's not also lose the opportunity to think and write them together in more complex and in depth ways, which we have done. 
+
+
+
+GOALS: 
+
 
 
 
@@ -136,4 +155,6 @@ Examples from my own research where I see this happening and where I have starte
 1. Platform experiments in visible code that bring the dev tools that are usually hidden in the web browser forward to be part of the text. In Chrome on a Mac you can right click an element and select Inspect, or a keyboard shortcut is Command+Option+I to bring up the page source, including html, any javascript, and CSS. But what if these were more readily visible through a browser extension or as part of the site itself, lowering the barrier between code and natural language text and lowering the barrier to entry to learning how code affects the other forms of writing it intersects with? Separating it off by hiding it in the developer tools as if only for already-skilled developers treats coding as an elite knowledge form and disallows the opportunity for potential coders to understand and influence these relationships like they could if code text and other writing could co-mingle.
    
 2. A second example is in recent work I've undertaken with Mark Marino, in which we were invited to fork a book written on GitLab by Winnie Soon and Geoff Cox. Because the book was 
+
+
 3. 
