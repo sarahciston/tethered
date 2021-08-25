@@ -12,7 +12,7 @@ date: 2021-07-24 13:41 -0700
 
 ## 1. a provocation
 
-The way we read code is broken.  you are approaching code as a critical code studies scholar, an engineer trying to maintain an open-source library, or a student first learning to distinguish comments from functions—approaches to code that only consider it entirely separate from the content, writing (natural language), and other material it executes fall short of ...   
+The way we read code is broken. You are approaching code as a critical code studies scholar, an engineer trying to maintain an open-source library, or a student first learning to distinguish comments from functions—approaches to code that only consider it entirely separate from the content, writing (natural language), and other material it executes fall short of ...   
 
 By its "nature" it is abstracted away, under the hood, behind the scenes, meant to work without the end-user's understanding. The concept of abstraction, its presumed utility, has been so fundamental to computer science that it can be difficult to see beyond it to imagine scenarios where other values might produce other useful systems. 
 
